@@ -1,7 +1,5 @@
 # Welcome to VmeanSETH-kH's web pages
 
-## Tittle: ****
+## **Web and app Development**
 ## Author: **THORNG Vimeanseth**
 
-```{tableofcontents}
-```
